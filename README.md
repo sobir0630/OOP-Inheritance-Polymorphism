@@ -5,6 +5,7 @@
 # Child classes: Dog, Cat
 # Har biri `speak()` metodini o‘ziga xos qiladi
 ```
+# ded
 
 ### 2. 🚗 **Transport Info**
 
